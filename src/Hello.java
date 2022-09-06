@@ -7,6 +7,10 @@ public class Hello {
         System.out.println("Nice to meet you");
         Student student = new Student();
         student.speak("I'm not stupid");
+        float a = 1.23f;
+        System.out.println(a);
+
     }
+
 
 }
