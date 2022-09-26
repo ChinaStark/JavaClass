@@ -14,7 +14,11 @@ public class WorkThree_3 {
             j++;
         } while (j <= 20);
         System.out.println(sum);
+        new WorkThree_3().compete();
 
 
+    }
+    void compete(){
+        System.out.println("hahaha");
     }
 }
